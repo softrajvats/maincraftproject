@@ -10,7 +10,8 @@
 - Visualize result, save the model, final report
 
 ## Setup
-- install : pip install numpy pandas matplotlib seaborn scikit-learn jupyter openpyxl joblib
+- install : 
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter openpyxl joblib
 - Uninstall : pip uninstall numpy pandas matplotlib seaborn scikit-learn jupyter openpyxl joblib -y
 - Create : housing_project.ipynb in project folder
 
